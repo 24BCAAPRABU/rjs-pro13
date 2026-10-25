@@ -2,7 +2,7 @@
   "name": "rjs-pro13-main",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://2024-bca-a-harish.github.io/rjs-pro13",
+  "homepage": "https://github.com/24BCAAPRABU/rjs-p13.git",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.4",
     "@testing-library/react": "^13.4.0",
